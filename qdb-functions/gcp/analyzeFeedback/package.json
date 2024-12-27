@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"@google-cloud/functions-framework": "^3.0.0",
+		"@google-cloud/firestore": "7.10.0",
+		"@google-cloud/language": "6.5.0"
+	}
+}
